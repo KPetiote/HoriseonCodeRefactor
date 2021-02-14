@@ -12,3 +12,7 @@ The HTML & CSS for Horiseon was changed by:
 - Added Imagine Path in Read-Me
 
 ![Alt text](./assets/website/01-html-css-git-homework-demo.png "Horiseon")
+
+Github Site - https://kpetiote.github.io/HoriseonCodeRefactor/
+
+Github Repo - https://github.com/KPetiote/HoriseonCodeRefactor/
